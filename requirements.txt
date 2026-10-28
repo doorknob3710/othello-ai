@@ -1,0 +1,6 @@
+numpy
+numba
+ipython
+scikit-learn
+scipy
+tqdm
